@@ -1,10 +1,8 @@
 ---
-title: "classification_Decision_Tree"
+title: "Classification_Decision_Tree"
 author: "Nivedita"
 date: "2024-04-09"
-output:
-  html_document: default
-  word_document: default
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
